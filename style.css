@@ -4,6 +4,7 @@ body {
     background-color: #0C0C0C;
     font-family: Consolas, monospace;
     font-size: 20px;
+    user-select: none;
     /* Decrease font size further */
 }
 
