@@ -8,6 +8,12 @@ body {
     /* Decrease font size further */
 }
 
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+
 .container {
     display: flex;
     align-items: center;
